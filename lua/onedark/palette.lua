@@ -17,7 +17,7 @@ return {
 		cyan = "#00cef1",
 		red = "#ff5768",
 		grey = "#787c82",
-		light_grey = "#787c82",
+		light_grey = "#353940",
 		dark_cyan = "#04b9d9",
 		dark_red = "#e35161",
 		dark_yellow = "#e3a144",
